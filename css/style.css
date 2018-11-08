@@ -1,0 +1,15 @@
+#calculator {
+	width: 45%;
+	border: 1px solid darkgray;
+	padding: 2em;
+	border-radius: 1em;
+	margin: 2em;
+
+}
+
+.container-fluid {
+	display: flex;
+	/*align-items: center;*/
+	justify-content: center;
+	font-family: sans-serif;
+}
